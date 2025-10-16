@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
-TOKEN = os.getenv"8480613736:AAH0NiM2UfgSNT_Hyf0DFuIf3wf82Hq-0Fs"
+TOKEN = os.getenv("8480613736:AAH0NiM2UfgSNT_Hyf0DFuIf3wf82Hq-0Fs")
 
 DATA_FILE = "data.json"
 
